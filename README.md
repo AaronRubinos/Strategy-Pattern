@@ -18,4 +18,8 @@ A. DefenseStrategy
 B. AttackStrategy
 - CastSpell
 - ShootArrow
-- SwingSword 
+- SwingSword
+
+**UML DIAGRAM**
+![StrategyPattern_UML_Diagram](https://github.com/AaronRubinos/Strategy-Pattern/assets/142986554/ebc89abf-d21a-4c0b-9df8-003cddce2e0f)
+
